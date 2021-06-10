@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tamasszoke/tamasszoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
