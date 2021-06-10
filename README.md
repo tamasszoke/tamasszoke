@@ -1,3 +1,5 @@
+### Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues&count_private=true&show_icons=true&theme=default&hide_rank=false&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
