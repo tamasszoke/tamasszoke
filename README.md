@@ -22,3 +22,5 @@
 - [Answer by Tamas Szoke for If string doesn't contain, then x, else y](https://stackoverflow.com/questions/67550670/if-string-doesnt-contain-then-x-else-y/67550707#67550707)
 - [Answer by Tamas Szoke for Nodejs Express get raw content of user uploaded file](https://stackoverflow.com/questions/67541439/nodejs-express-get-raw-content-of-user-uploaded-file/67541519#67541519)
 <!-- STACKOVERFLOW:END -->
+
+<a href="https://stackoverflow.com/users/1371995/tamas-szoke"><img src="https://stackoverflow.com/users/flair/1371995.png" width="208" height="58" alt="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
