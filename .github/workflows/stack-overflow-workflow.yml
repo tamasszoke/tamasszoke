@@ -1,0 +1,16 @@
+name: Latest stack overflow activity
+on:
+  schedule:
+    - cron: "15 10 * * 1-5" # Every weekday at 10:15
+  workflow_dispatch:
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "[UPDATE]: StackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/1371995"
