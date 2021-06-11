@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues&count_private=true&show_icons=true&theme=default&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasszoke&langs_count=6&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
