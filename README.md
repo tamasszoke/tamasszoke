@@ -4,7 +4,7 @@
 - Working with Node.js, React, Docker
 - Playing with Deno, TypeScript
 - Projects <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a>, <a href="https://github.com/tamasszoke/mern-boilerplate" target="_blank">MERN Boilerplate</a>, <a href="https://github.com/tamasszoke/neat-rtc" target="_blank">Neat RTC</a>
-- Created <a href="https://room42.openode.io" target="_blank">Room42</a> video chat website<!--, <a href="https://buildmaster.openode.io" target="_blank">Build Master</a>-->
+- Try out my video chat website <a href="https://room42.openode.io" target="_blank">Room42</a><!--, <a href="https://buildmaster.openode.io" target="_blank">Build Master</a>-->
 
 ## GitHub Stats
   
