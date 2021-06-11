@@ -7,9 +7,8 @@
 - Created <a href="https://room42.openode.io" target="_blank">Room42</a> video chat website<!--, <a href="https://buildmaster.openode.io" target="_blank">Build Master</a>-->
 
 ## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues,prs&count_private=true&show_icons=true&theme=default&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues,prs&count_private=true&show_icons=true&theme=default&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasszoke&langs_count=6&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
