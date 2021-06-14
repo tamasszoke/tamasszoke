@@ -1,6 +1,6 @@
 ## Summary
 
-- Senior Full-Stack Engineer
+- Sr. Full-Stack Engineer
 - Working with Node.js, React, Docker
 - Playing with Deno, TypeScript
 - Projects <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a>, <a href="https://github.com/tamasszoke/mern-boilerplate" target="_blank">MERN Boilerplate</a>, <a href="https://github.com/tamasszoke/neat-rtc" target="_blank">Neat RTC</a>
