@@ -16,9 +16,9 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Tamas Szoke for TypeError: Cannot read properties of undefined (reading '$router') vuejs](https://stackoverflow.com/questions/69666397/typeerror-cannot-read-properties-of-undefined-reading-router-vuejs/69666526#69666526)
+- [Answer by Tamas Szoke for TypeError: Cannot read properties of undefined &lpar;reading &#39;$router&#39;&rpar; vuejs](https://stackoverflow.com/questions/69666397/typeerror-cannot-read-properties-of-undefined-reading-router-vuejs/69666526#69666526)
 - [Answer by Tamas Szoke for Access value of array object NodeJS](https://stackoverflow.com/questions/69665723/access-value-of-array-object-nodejs/69665761#69665761)
-- [Answer by Tamas Szoke for Image doesn't display as its defined](https://stackoverflow.com/questions/69560265/image-doesnt-display-as-its-defined/69560428#69560428)
+- [Answer by Tamas Szoke for Image doesn&#39;t display as its defined](https://stackoverflow.com/questions/69560265/image-doesnt-display-as-its-defined/69560428#69560428)
 - [Answer by Tamas Szoke for Why am I getting an Unexpected token async on node.js?](https://stackoverflow.com/questions/69245990/why-am-i-getting-an-unexpected-token-async-on-node-js/69246027#69246027)
 - [Answer by Tamas Szoke for Find the type of the file/folder passed to the CLI in nodejs](https://stackoverflow.com/questions/69215093/find-the-type-of-the-file-folder-passed-to-the-cli-in-nodejs/69215289#69215289)
 <!-- STACKOVERFLOW:END -->
