@@ -26,11 +26,11 @@
 # StackOverflow
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Tamas Szoke for TypeError: Cannot read properties of undefined &lpar;reading &#39;$router&#39;&rpar; vuejs](https://stackoverflow.com/questions/69666397/typeerror-cannot-read-properties-of-undefined-reading-router-vuejs/69666526#69666526)
-- [Answer by Tamas Szoke for Access value of array object NodeJS](https://stackoverflow.com/questions/69665723/access-value-of-array-object-nodejs/69665761#69665761)
-- [Answer by Tamas Szoke for Image doesn&#39;t display as its defined](https://stackoverflow.com/questions/69560265/image-doesnt-display-as-its-defined/69560428#69560428)
-- [Answer by Tamas Szoke for Why am I getting an Unexpected token async on node.js?](https://stackoverflow.com/questions/69245990/why-am-i-getting-an-unexpected-token-async-on-node-js/69246027#69246027)
-- [Answer by Tamas Szoke for Find the type of the file/folder passed to the CLI in nodejs](https://stackoverflow.com/questions/69215093/find-the-type-of-the-file-folder-passed-to-the-cli-in-nodejs/69215289#69215289)
+- [Answer by Tamas Szoke for How to autoplay next song without button interaction](https://stackoverflow.com/questions/73174438/how-to-autoplay-next-song-without-button-interaction/73174508#73174508)
+- [Answer by Tamas Szoke for Joi async custom validation](https://stackoverflow.com/questions/73173897/joi-async-custom-validation/73174230#73174230)
+- [Answer by Tamas Szoke for Pass value to methods](https://stackoverflow.com/questions/73155271/pass-value-to-methods/73155382#73155382)
+- [Answer by Tamas Szoke for How do i check for multiple keywords using cheerio?](https://stackoverflow.com/questions/73148808/how-do-i-check-for-multiple-keywords-using-cheerio/73148958#73148958)
+- [Answer by Tamas Szoke for Get an element from an array of objects with an id in mongodb using nodejs and mongoose](https://stackoverflow.com/questions/73139415/get-an-element-from-an-array-of-objects-with-an-id-in-mongodb-using-nodejs-and-m/73139531#73139531)
 <!-- STACKOVERFLOW:END -->
 
 <a href="https://stackoverflow.com/users/1371995/tamas-szoke"><img src="https://stackoverflow.com/users/flair/1371995.png" width="208" height="58" alt="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
