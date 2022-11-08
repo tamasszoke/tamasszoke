@@ -3,17 +3,15 @@
 - Senior Full-Stack Engineer
 - Working with Node.js, React, TypeScript, Docker
 - Experimenting with Bun, Tauri, Rust, Deno
-- Following WebRTC, API design best practices
+- Following WebRTC, new tools and technologies
 - See my <a href="https://portfolio-tamasszoke.fly.dev" target="_blank">portfolio</a> website, built with React
 
 # Projects
 
-## Samples
-
 - <a href="https://videolink-tamasszoke.fly.dev" target="_blank">VideoLink</a> (P2P Video/text, Filters, Photo, Gomoku)
 - <a href="https://webshop-tamasszoke.fly.dev" target="_blank">Webshop</a> (PayPal payment, Admin panel, Themes)
 - <a href="https://buildmaster-tamasszoke.fly.dev" target="_blank">BuildMaster</a> (PC generation, Game requirement check)
-## Open source
+# Open source
 
 - <a href="https://github.com/tamasszoke/mern-seed" target="_blank">MERN Seed</a> (Node, React, MongoDB, TypeScript, Docker)
 - <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a> (Deno, React, MongoDB, Docker)
@@ -23,8 +21,6 @@
 ## StackOverflow
 
 <a href="https://stackoverflow.com/users/1371995/tamas-szoke"><img src="https://stackoverflow.com/users/flair/1371995.png" width="208" height="58" alt="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-### Activity
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Tamas Szoke for How to autoplay next song without button interaction](https://stackoverflow.com/questions/73174438/how-to-autoplay-next-song-without-button-interaction/73174508#73174508)
