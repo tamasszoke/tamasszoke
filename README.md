@@ -4,17 +4,18 @@
 - Working with Node.js, React, TypeScript, Docker
 - Experimenting with Bun, Tauri, Rust, Deno
 - Following WebRTC, API design best practices
-- Find my portfolio site <a href="https://portfolio-tamasszoke.fly.dev" target="_blank">here</a>
+- See my <a href="https://portfolio-tamasszoke.fly.dev" target="_blank">portfolio</a> website, built with React
 
 # Projects
 
 ## Samples
 
-- <a href="https://videolink-tamasszoke.fly.dev" target="_blank">VideoLink</a> (Node, React, WebRTC)
-- <a href="https://webshop-tamasszoke.fly.dev" target="_blank">Webshop</a> (Node, React, MongoDB)
+- <a href="https://videolink-tamasszoke.fly.dev" target="_blank">VideoLink</a> (P2P Video/text, Filters, Photo, Gomoku)
+- <a href="https://webshop-tamasszoke.fly.dev" target="_blank">Webshop</a> (PayPal payment, Admin panel, Themes)
+- <a href="https://buildmaster-tamasszoke.fly.dev" target="_blank">BuildMaster</a> (PC generation, Game requirement check)
 ## Open source
 
-- <a href="https://github.com/tamasszoke/mern-seed" target="_blank">MERN Seed</a> (Node, React, MongoDB, Docker)
+- <a href="https://github.com/tamasszoke/mern-seed" target="_blank">MERN Seed</a> (Node, React, MongoDB, TypeScript, Docker)
 - <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a> (Deno, React, MongoDB, Docker)
 - <a href="https://github.com/tamasszoke/neat-rtc" target="_blank">Neat RTC</a> (WebRTC, Node, React, Vue)
 
