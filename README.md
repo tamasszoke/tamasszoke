@@ -1,19 +1,29 @@
-## Summary
+# Summary
 
 - Sr. Full-Stack Engineer
-- Working with Node.js, React, Docker
-- Playing with Deno, TypeScript
-- Projects <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a>, <a href="https://github.com/tamasszoke/mern-boilerplate" target="_blank">MERN Boilerplate</a>, <a href="https://github.com/tamasszoke/neat-rtc" target="_blank">Neat RTC</a>
-- Try out my video chat website at <a href="https://room42.openode.io" target="_blank">Room42</a><!--, <a href="https://buildmaster.openode.io" target="_blank">Build Master</a>-->
-- Following Deno, WebRTC, Clean code, etc.
-- Reach me at <a href="tamas.szoke.dev@gmail.com">tamas.szoke.dev@gmail.com</a>
+- Working with Node.js, React, TypeScript, Docker
+- Experimenting with Bun, Tauri, Rust, Deno
+- Following WebRTC, API design best practices
+- Find my portfolio site <a href="https://portfolio-tamasszoke.fly.dev" target="_blank">here</a>
 
-## GitHub Stats
+# Projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=default&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+## Samples
+
+- <a href="https://videolink-tamasszoke.fly.dev" target="_blank">VideoLink</a> (Node, React, WebRTC)
+- <a href="https://webshop-tamasszoke.fly.dev" target="_blank">Webshop</a> (Node, React, MongoDB)
+## Open source
+
+- <a href="https://github.com/tamasszoke/mern-seed" target="_blank">MERN Seed</a> (Node, React, MongoDB, Docker)
+- <a href="https://github.com/tamasszoke/deno-seed" target="_blank">Deno Seed</a> (Deno, React, MongoDB, Docker)
+- <a href="https://github.com/tamasszoke/neat-rtc" target="_blank">Neat RTC</a> (WebRTC, React, Vue)
+
+# Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasszoke&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=default&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasszoke&langs_count=6&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## StackOverflow Activity
+# StackOverflow
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Tamas Szoke for TypeError: Cannot read properties of undefined &lpar;reading &#39;$router&#39;&rpar; vuejs](https://stackoverflow.com/questions/69666397/typeerror-cannot-read-properties-of-undefined-reading-router-vuejs/69666526#69666526)
