@@ -4,7 +4,7 @@
 - Working with Node.js, React, TypeScript, Docker
 - Experimenting with Bun, Tauri, Rust, Deno
 - Following WebRTC, new tools and technologies
-- See my <a href="https://portfolio-tamasszoke.fly.dev" target="_blank">portfolio</a> website, built with React
+- See my <a href="https://tamasszoke.fly.dev" target="_blank">portfolio</a> website, built with React
 
 # Projects
 
