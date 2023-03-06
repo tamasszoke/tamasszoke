@@ -23,11 +23,11 @@
 <a href="https://stackoverflow.com/users/1371995/tamas-szoke"><img src="https://stackoverflow.com/users/flair/1371995.png" width="208" height="58" alt="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tamas Szoke at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tamas Szoke for Socket IO - client server communication doesn&#39;t work](https://stackoverflow.com/questions/75645249/socket-io-client-server-communication-doesnt-work/75645398#75645398)
+- [Answer by Tamas Szoke for how to Extract Link part from a string in javascript](https://stackoverflow.com/questions/75635851/how-to-extract-link-part-from-a-string-in-javascript/75635895#75635895)
 - [Answer by Tamas Szoke for How to autoplay next song without button interaction](https://stackoverflow.com/questions/73174438/how-to-autoplay-next-song-without-button-interaction/73174508#73174508)
 - [Answer by Tamas Szoke for Joi async custom validation](https://stackoverflow.com/questions/73173897/joi-async-custom-validation/73174230#73174230)
 - [Answer by Tamas Szoke for Pass value to methods](https://stackoverflow.com/questions/73155271/pass-value-to-methods/73155382#73155382)
-- [Answer by Tamas Szoke for How do i check for multiple keywords using cheerio?](https://stackoverflow.com/questions/73148808/how-do-i-check-for-multiple-keywords-using-cheerio/73148958#73148958)
-- [Answer by Tamas Szoke for Get an element from an array of objects with an id in mongodb using nodejs and mongoose](https://stackoverflow.com/questions/73139415/get-an-element-from-an-array-of-objects-with-an-id-in-mongodb-using-nodejs-and-m/73139531#73139531)
 <!-- STACKOVERFLOW:END -->
 
 ## GitHub
